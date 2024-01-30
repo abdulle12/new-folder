@@ -1,0 +1,11 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+
+
+  }
+  
+  .navbar navbar-expand-lg bg-body-tertiary >.logo {
+    width: 50px;
+}
